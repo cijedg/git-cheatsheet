@@ -87,7 +87,7 @@ git remote -v
 ```
 Lists the remote repositories associated with the local repository.
 
-##Useful Tips
+### Useful Tips
 
 
 - Always pull the latest changes before starting work to avoid conflicts.
